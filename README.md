@@ -19,3 +19,4 @@ It includes multiple pages built with **HTML** to demonstrate structure, linking
 - Clean and simple HTML structure.  
 - Demonstrates linking between multiple pages.  
 - Includes images and external links (Google Maps).
+- No Chatgpt used.
